@@ -15,4 +15,4 @@ This project demonstrates the construction of a deep face detection model using 
 - **Enhancements**: Adjustments to the model architecture to improve detection accuracy.
 
 ## Usage
-The model can detect faces in real-time and works efficiently with custom datasets. It is also capable of detecting faces in dark conditions and tracks facial features with high accuracy.
+The model can detect faces in real time and works efficiently with custom datasets. It is also capable of detecting faces in dark conditions and tracks facial features with high accuracy.
